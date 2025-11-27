@@ -9,6 +9,10 @@ body {
     padding: 40px;
     background-color: #f4f4f4;
     text-align: center;
+<<<<<<< Updated upstream
+=======
+    font-family: 'iannnnnCPU (2005)', sans-serif; /* <--- ต้องเรียกชื่อให้ตรงกับที่ตั้งไว้ */
+>>>>>>> Stashed changes
 }
 
 /* ---------------------------------------------------
